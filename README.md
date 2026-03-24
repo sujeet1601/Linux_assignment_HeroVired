@@ -1,4 +1,4 @@
-# Linux Assignment for HeroVired Batch16A - Owned by Thiagarajan Baskarasubramanian - ID 12950
+# Linux Assignment for HeroVired Batch16B - Owned by Sujeet Kumar Singh 
 
 **Repository:** Linux Assignment  
 **Environment:** Ubuntu Linux (WSL)
